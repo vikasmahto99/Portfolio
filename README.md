@@ -20,14 +20,14 @@ user-friendly on various screen sizes.
 
 ### [Booking App](https://github.com/vikasmahto99/Booking-App)
 
-**Technology Stack:** Built with HTML, CSS, JavaScript, and React.js.
-**Project Focus:** Focused on creating a user-friendly application for hotel and room
+- **Technology Stack:** Built with HTML, CSS, JavaScript, and React.js.
+- **Project Focus:** Focused on creating a user-friendly application for hotel and room
 reservations.
-**Responsiveness:** Designed to work smoothly on various devices and screen
+- **Responsiveness:** Designed to work smoothly on various devices and screen
 sizes.
-**Interactivity:** Included real-time updates and interactive features for a better
+- **Interactivity:** Included real-time updates and interactive features for a better
 user experience.
-**Functionality:** Added basic features like search filters and booking
+- **Functionality:** Added basic features like search filters and booking
 management
 
 ## Skills
@@ -43,8 +43,8 @@ management
 Feel free to reach out to me:
 
 - **Email:** [Vikashmahto9958l@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vikas-mahto-a21102228/)
-- **Twitter:** [Your Twitter Profile](https://x.com/vikasmahto9958)
+- **LinkedIn:** [ LinkedIn Profile](https://www.linkedin.com/in/vikas-mahto-a21102228/)
+- **Twitter:** [Twitter Profile](https://x.com/vikasmahto9958)
 
 ## License
 
