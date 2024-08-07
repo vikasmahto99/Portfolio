@@ -45,7 +45,6 @@ management
 
 Feel free to reach out to me:
 
-- **Email:** [Vikashmahto9958@gmail.com]
 - **LinkedIn:** [ LinkedIn Profile](https://www.linkedin.com/in/vikas-mahto-a21102228/)
 - **Twitter:** [Twitter Profile](https://x.com/vikasmahto9958)
 
