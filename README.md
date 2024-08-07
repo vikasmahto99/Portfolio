@@ -1,10 +1,11 @@
-# Vikas's Personal Portfolio
+#  Personal Portfolio
 
-Welcome to my portfolio! Here, you can explore my projects, skills, and achievements as a computer science student and developer.
+Welcome to my professional portfolio. This repository showcases my skills, projects, and achievements as a computer science student and developer.
+
 
 ## About Me
 
-I am Vikas, a dedicated computer science student and a versatile developer skilled in HTML, CSS, JavaScript, React.js, and various modern frameworks. My passion lies in creating innovative solutions and continuously learning new technologies.
+I am Vikas, a computer science student with a strong foundation in web development and a passion for continuous learning. My expertise includes HTML, CSS, JavaScript, React.js, and various modern frameworks. I am dedicated to developing innovative solutions and keeping up with industry trends.
 
 ## Projects
 
@@ -42,7 +43,7 @@ management
 
 Feel free to reach out to me:
 
-- **Email:** [Vikashmahto9958l@gmail.com]
+- **Email:** [Vikashmahto9958@gmail.com]
 - **LinkedIn:** [ LinkedIn Profile](https://www.linkedin.com/in/vikas-mahto-a21102228/)
 - **Twitter:** [Twitter Profile](https://x.com/vikasmahto9958)
 
