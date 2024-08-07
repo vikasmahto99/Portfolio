@@ -2,7 +2,8 @@
 
 Welcome to my professional portfolio. This repository showcases my skills, projects, and achievements as a computer science student and developer.
 
-![personal website](https://github.com/user-attachments/assets/49cb5ca7-23a5-44e3-bf1c-98a69eaba4d6)
+
+![personal website](https://github.com/user-attachments/assets/4a6dcea0-ad70-4132-83ed-3ccd289909ec)
 
 
 ## About Me
