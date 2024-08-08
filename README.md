@@ -22,7 +22,7 @@ e-commerce platform and ensuring it works well across different devices.
 - **Responsiveness:** Implemented design practices to ensure the website is accessible and
 user-friendly on various screen sizes.
 
-### [Booking App](https://github.com/vikasmahto99/Booking-App)
+### [React Booking App](https://github.com/vikasmahto99/Booking-App)
 
 - **Technology Stack:** Built with HTML, CSS, JavaScript, and React.js.
 - **Project Focus:** Focused on creating a user-friendly application for hotel and room
